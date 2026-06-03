@@ -15,10 +15,9 @@ def test_subtract():
 def test_multiply():
     a=10
     b=5
-    assert multiply(a,b)== 50
+    assert multiply(a,b)== 5
 
 def test_divide():
     a=10
     b=5
-    assert divide(a,b)==2
-    
+    assert divide(a,b)==3
